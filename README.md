@@ -35,27 +35,12 @@
                   
  <p align="left">
                           
- <a href="https://www.github.com/Anup-Narkhede" target="_blank" rel="noreferrer"></a></p><b>My GitHub Stats</b><a
-href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.herokuapp.com/graph?username=Anup-Narkhede&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ <a href="https://www.github.com/shubhamsirsat" target="_blank" rel="noreferrer"></a></p><b>My GitHub Stats</b><a
+href="http://www.github.com/shubhamsirsat"><img src="https://activity-graph.herokuapp.com/graph?username=shubhamsirsat&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
                       
-## :shield:  Badges 
-<html>
-<div>
-      <a href="https://www.credly.com/badges/ccb0de67-b0ff-432b-9ddd-75a4ec4f3bd1">
-         <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/practitioner_badge-aws.png" width="140 px" height = "150px" >
-      </a>
-     <a href="https://www.credly.com/badges/d5bbe203-a278-4708-948a-56f3cd132425">
-        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/AWS-Academy-Graduate-Badge-Foundational.png" width="150 px" height = "150px" >
-     </a>
-     <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4?source=linked_in_profile">
-        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/Microsoft+Certified+Azure+Fundamentals(AZ-900).png" width="150 px" height = "150px" >
-     </a>
-  
-   
-  </div>
-</html>
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anup-Narkhede.aemmadi)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamsirsat.aemmadi)
 
